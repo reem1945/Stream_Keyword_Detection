@@ -1,7 +1,7 @@
 from collections import Counter
 
 # Liste des mots-clés à rechercher
-keywords = ["exemple", "texte", "analyse"]
+keywords = ["data science", "python", "MLops"]
 
 # Fonction de comptage des mots-clés
 def count_keywords(text, keywords):
