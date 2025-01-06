@@ -5,7 +5,7 @@ from keyword_detection import count_keywords  # Importer la fonction de comptage
 consumer = KafkaConsumer('text_stream', bootstrap_servers='localhost:9092', group_id='text_group')
 
 # Liste des mots-clés à détecter
-keywords = ["exemple", "texte", "analyse"]
+keywords = ["data science", "python", "MLops"]
 
 # Fonction pour traiter chaque message
 def process_message(text):
