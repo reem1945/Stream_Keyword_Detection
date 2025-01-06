@@ -20,4 +20,4 @@ This project listens to a Kafka stream, processes incoming text messages, and de
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/kafka-text-stream-processor.git
+   git clone https://github.com/reem1945/Stream_Keyword_Detection.git
